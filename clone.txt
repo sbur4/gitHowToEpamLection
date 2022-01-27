@@ -2,3 +2,14 @@ git clone https://github.com/libgit2/libgit2
 
 if you want to change repo name
 git clone https://github.com/libgit2/libgit2 mylibgit
+
+The following syntaxes may be used with them:
+
+    ssh://[user@]host.xz[:port]/path/to/repo.git/
+
+    git://host.xz[:port]/path/to/repo.git/
+
+    http[s]://host.xz[:port]/path/to/repo.git/
+
+    ftp[s]://host.xz[:port]/path/to/repo.git/
+

@@ -1,0 +1,2 @@
+git remote add origin https://github.com/sbur4/gitHowToEpamLection.git
+git remote add origin git@github.com:sbur4/gitHowToEpamLection.git

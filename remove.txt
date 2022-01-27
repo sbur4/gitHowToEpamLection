@@ -1,3 +1,8 @@
 notepad test1
 git rm test1.txt
 git rm --cached test1.txt (rm from index)
+
+git log 
+git co 4530341d4c74529c77252a988c6cf9d0e7de1ac8 test
+or
+git reset --hard (if without changes)

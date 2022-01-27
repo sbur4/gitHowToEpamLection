@@ -1,3 +1,5 @@
 git diff
 
 git diff --staged | git diff --cached
+
+git diff a/test.txt b/testB.txt

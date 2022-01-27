@@ -1,0 +1,3 @@
+git tag -l
+git tag v1.0
+git tag -a test.txt -m 'new tag'

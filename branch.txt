@@ -1,1 +1,3 @@
 git branch -M master
+git branch -d master (delete)
+git branch -a (all)

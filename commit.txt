@@ -1,1 +1,2 @@
 git commit -m "first commit"
+git commot -am '' (like add*)

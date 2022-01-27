@@ -1,0 +1,4 @@
+git add * (all)
+git add *.txt (all files.txt)
+git add README.md
+git add test1.java test2.java

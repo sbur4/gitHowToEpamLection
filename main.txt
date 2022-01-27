@@ -1,3 +1,6 @@
 git --version
 git init
-git status | git status -s
+
+mkdir
+ls
+cd | cd ..

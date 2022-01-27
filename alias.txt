@@ -1,0 +1,9 @@
+alias.co=checkout
+alias.ci=commit
+alias.st=status
+alias.br=branch
+
+alias.s=status
+alias.gs=git status
+alias.g=git
+alias.gi=git

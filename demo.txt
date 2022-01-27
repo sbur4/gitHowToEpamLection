@@ -1,0 +1,20 @@
+New file:
+
+    	Way 1: type nul > file.txt
+    	Way 2: echo This is a sample text file > sample.txt
+    	Way 3: notepad myfile.txt <press Enter>
+
+Edit content:
+
+	notepad file.txt
+Copy
+
+	copy file1.txt file1Copy.txt
+
+Rename
+
+	rename file1.txt file1_rename.txt
+
+Delete file:
+
+	del file.txt

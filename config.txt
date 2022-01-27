@@ -1,0 +1,9 @@
+git config
+git config --list
+git config --global --list
+git config --local --list
+git config --system --list
+
+
+user.name=demo
+user.email=demo@gmail.com

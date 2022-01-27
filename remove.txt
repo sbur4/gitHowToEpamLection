@@ -1,1 +1,3 @@
-git rm filename
+notepad test1
+git rm test1.txt
+git rm --cached test1.txt (rm from index)

@@ -1,0 +1,2 @@
+notepad test2
+git mv test2.txt testB.txt

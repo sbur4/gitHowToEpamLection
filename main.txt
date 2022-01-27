@@ -3,3 +3,5 @@ git init
 git status| git status -s
 git show
 git log
+
+ls

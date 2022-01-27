@@ -1,1 +1,10 @@
 git branch -M master
+
+git branch branch_test
+git branch -a
+
+git checkout branch_test
+git branch -a
+notepad test
+git add test.txt
+
